@@ -3,7 +3,7 @@
 
 Olá pessoal!
 
-Vamos usar criar pasta por sessão. Em cada pasta vocês podem commitar quantas soluções quiserem usando no título do arquivo a chave:
+Vamos usar uma pasta por sessão. Em cada pasta vocês podem commitar quantas soluções quiserem usando no título do arquivo a chave:
 ```
 <seunome>-<nome-do-problema>-<versao>
 ```
