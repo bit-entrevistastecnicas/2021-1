@@ -2,7 +2,7 @@
 
 
 // O(n) Runtime Complexity
-// O(n) Space Complexity (recursion space :( )
+// O(1) Space Complexity 
 
 //this is the same ideia from v1, but we can call an auxiliar function and avoid n^2 complexity
 //congrats @marcelodemoraes to ideia 
